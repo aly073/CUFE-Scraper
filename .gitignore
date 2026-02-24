@@ -1,0 +1,6 @@
+.env
+
+
+#python cache folder ignore list
+__pycache__/
+*.pyc
